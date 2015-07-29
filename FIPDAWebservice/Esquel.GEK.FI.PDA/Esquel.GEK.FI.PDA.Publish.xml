@@ -1,0 +1,12 @@
+<publishData>
+  <publishTarget publishUrl="E:\webroot\webservice\FIPDA\">
+    <file relUrl="bin/Esquel.GEK.QI.DataAccess.dll" publishTime="10/09/2014 16:47:09" />
+    <file relUrl="bin/Esquel.GEK.FI.PDA.dll" publishTime="10/13/2014 10:14:08" />
+    <file relUrl="bin/Esquel.GEK.QI.DataAccess.pdb" publishTime="10/09/2014 16:47:08" />
+    <file relUrl="Web.config" publishTime="10/09/2014 17:14:20" />
+    <file relUrl="BaseService.asmx" publishTime="10/09/2014 16:53:07" />
+    <file relUrl="bin/Esquel.Infrastructure.pdb" publishTime="10/09/2014 16:47:08" />
+    <file relUrl="bin/Esquel.GEK.FI.PDA.pdb" publishTime="10/13/2014 10:14:07" />
+    <file relUrl="bin/Esquel.Infrastructure.dll" publishTime="10/09/2014 16:47:08" />
+  </publishTarget>
+</publishData>

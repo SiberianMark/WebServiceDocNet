@@ -1,0 +1,5 @@
+D:\Projects\Esquel\SourceCode\Esquel.Infrastructure\bin\Release\Esquel.Infrastructure.dll
+D:\Projects\Esquel\SourceCode\Esquel.Infrastructure\bin\Release\Esquel.Infrastructure.pdb
+D:\Projects\Esquel\SourceCode\Esquel.Infrastructure\bin\Release\log4net.dll
+D:\Projects\Esquel\SourceCode\Esquel.Infrastructure\obj\Release\Esquel.Infrastructure.dll
+D:\Projects\Esquel\SourceCode\Esquel.Infrastructure\obj\Release\Esquel.Infrastructure.pdb

@@ -1,0 +1,36 @@
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\bin\Esquel.GEK.FI.PDA.dll.config
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\bin\Esquel.GEK.FI.PDA.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\bin\Esquel.GEK.FI.PDA.pdb
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\bin\Esquel.GEK.QI.DataAccess.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\bin\Esquel.Infrastructure.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\bin\Esquel.GEK.QI.DataAccess.pdb
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\bin\Esquel.Infrastructure.pdb
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\obj\Release\Esquel.GEK.FI.PDA.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\obj\Release\Esquel.GEK.FI.PDA.pdb
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\obj\Release\Esquel.GEK.FI.PDA.csprojResolveAssemblyReference.cache
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\bin\Newtonsoft.Json.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\bin\LYH.ClassLib.IO.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.FI.PDA\bin\LYH.ClassLib.IO.pdb
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.GEK.FI.PDA.dll.config
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.GEK.FI.PDA.dll
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.GEK.FI.PDA.pdb
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.GEK.QI.DataAccess.dll
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.Infrastructure.dll
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Newtonsoft.Json.dll
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.GEK.QI.DataAccess.pdb
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.Infrastructure.pdb
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\obj\Release\Esquel.GEK.FI.PDA.csprojResolveAssemblyReference.cache
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\obj\Release\Esquel.GEK.FI.PDA.dll
+D:\KMIS\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\obj\Release\Esquel.GEK.FI.PDA.pdb
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.GEK.FI.PDA.dll.config
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.GEK.FI.PDA.dll
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.GEK.FI.PDA.pdb
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.GEK.QI.DataAccess.dll
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.Infrastructure.dll
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Newtonsoft.Json.dll
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.GEK.QI.DataAccess.pdb
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\Esquel.Infrastructure.pdb
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\bin\LYH.ClassLib.IO.pdb
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\obj\Release\Esquel.GEK.FI.PDA.csprojResolveAssemblyReference.cache
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\obj\Release\Esquel.GEK.FI.PDA.dll
+E:\KMIs\QCM\FIPDA Webservice\Esquel.GEK.FI.PDA\obj\Release\Esquel.GEK.FI.PDA.pdb

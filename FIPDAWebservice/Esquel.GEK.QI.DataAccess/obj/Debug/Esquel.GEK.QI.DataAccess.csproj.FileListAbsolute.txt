@@ -1,0 +1,7 @@
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.DataAccess\bin\Debug\Esquel.GEK.QI.DataAccess.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.DataAccess\bin\Debug\Esquel.GEK.QI.DataAccess.pdb
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.DataAccess\bin\Debug\Esquel.Infrastructure.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.DataAccess\bin\Debug\Esquel.Infrastructure.pdb
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.DataAccess\obj\Debug\Esquel.GEK.QI.DataAccess.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.DataAccess\obj\Debug\Esquel.GEK.QI.DataAccess.pdb
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.DataAccess\obj\Debug\Esquel.GEK.QI.DataAccess.csprojResolveAssemblyReference.cache

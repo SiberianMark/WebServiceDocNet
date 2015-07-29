@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esquel.GEK.QI.DataAccess", "Esquel.GEK.QI.DataAccess.csproj", "{4605EF42-5663-4199-8B2A-DDA2E246342B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esquel.Infrastructure", "..\Esquel.Infrastructure\Esquel.Infrastructure.csproj", "{94FDBDD9-ED73-47B6-9F03-19600A27DBFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4605EF42-5663-4199-8B2A-DDA2E246342B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4605EF42-5663-4199-8B2A-DDA2E246342B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4605EF42-5663-4199-8B2A-DDA2E246342B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4605EF42-5663-4199-8B2A-DDA2E246342B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FDBDD9-ED73-47B6-9F03-19600A27DBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FDBDD9-ED73-47B6-9F03-19600A27DBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FDBDD9-ED73-47B6-9F03-19600A27DBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FDBDD9-ED73-47B6-9F03-19600A27DBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="BaseService.asmx.cs" Class="Esquel.GEK.FI.PDA.BaseService" %>

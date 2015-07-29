@@ -1,0 +1,7 @@
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.PickRepair.DataAccess\bin\Debug\Esquel.GEK.QI.PickRepair.DataAccess.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.PickRepair.DataAccess\bin\Debug\Esquel.GEK.QI.PickRepair.DataAccess.pdb
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.PickRepair.DataAccess\bin\Debug\Esquel.Infrastructure.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.PickRepair.DataAccess\bin\Debug\Esquel.Infrastructure.pdb
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.PickRepair.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.PickRepair.DataAccess\obj\Debug\Esquel.GEK.QI.PickRepair.DataAccess.dll
+E:\VS_Workspaces\Demo\Esquel.GEK.QI.PickRepair.DataAccess\obj\Debug\Esquel.GEK.QI.PickRepair.DataAccess.pdb
